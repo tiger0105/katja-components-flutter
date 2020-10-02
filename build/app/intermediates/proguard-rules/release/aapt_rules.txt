@@ -1,0 +1,8 @@
+# Referenced at C:\Users\BILI GENIJE\Desktop\01 - KATJA-FLUTTER\-Dev-Upload\Source\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\BILI GENIJE\Desktop\01 - KATJA-FLUTTER\-Dev-Upload\Source\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:22
+-keep class com.csform.flutter.katja.MainActivity { <init>(); }
+# Referenced at C:\Users\BILI GENIJE\Desktop\01 - KATJA-FLUTTER\-Dev-Upload\Source\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at C:\Users\BILI GENIJE\Desktop\01 - KATJA-FLUTTER\-Dev-Upload\Source\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:43
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
